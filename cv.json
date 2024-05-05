@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Jorge Infante",
+    "label": "Python Developer con 2 años de experiencia",
+    "image": "/me.webp",
+    "email": "pochoj52@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "+2 años de experiencia en desarrollo de software, con un enfoque en aplicaciones web y de escritorio. Conocimientos en Python, Django, Flask, JavaScript, HTML, CSS, SQL, Git, Docker, Linux, entre otros. Actualmente trabajando en la creación de aplicaciones web con Django y React.",
+    "location": {
+      "address": "",
+      "postalCode": "4200",
+      "city": "Santiago del Estero",
+      "countryCode": "AR",
+      "region": "Santiago del Estero"
+    },
+    "profiles": [
+      {
+        "network": "X",
+        "username": "john",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://www.linkedin.com/in/john/"
+      },
+      {
+        "network": "GitHub",
+        "username": "john",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2021-01-01",
+      "endDate": null,
+      "summary": "Short description...",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Company XYZ",
+      "position": "Software Engineer",
+      "url": "https://companyxyz.com",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Developed backend APIs using Django and Django REST Framework",
+      "highlights": [
+        "Developed new features for the company's flagship product"
+      ]
+    },
+    {
+      "name": "Company ABC",
+      "position": "Software Developer",
+      "url": "https://companyabc.com",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Developed backend APIs using Django and Django REST Framework",
+      "highlights": [
+        "Developed web applications using Django and React"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/"
+    }
+  ]
+}
