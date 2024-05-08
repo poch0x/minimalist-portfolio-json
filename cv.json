@@ -34,33 +34,24 @@
   },
   "work": [
     {
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2021-01-01",
+      "name": "S.A.E.D",
+      "position": "Desarrollador",
+      "url": "https://saed.digital/",
+      "startDate": "2022-08-01",
       "endDate": null,
-      "summary": "Short description...",
+      "summary": "Developed using Flask, Django, Django Rest Framework, App Script",
       "highlights": ["Started the company"]
     },
     {
-      "name": "Company XYZ",
-      "position": "Software Engineer",
-      "url": "https://companyxyz.com",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Developed backend APIs using Django and Django REST Framework",
+      "name": "Subsecretaria de Educacion y Cultura de la Ciudad de La Banda",
+      "position": "Soporte Tecnico y Adminitrativo",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2021-10-13",
+      "summary": "Soporte tecnico en IT y administrativo",
       "highlights": [
         "Developed new features for the company's flagship product"
       ]
-    },
-    {
-      "name": "Company ABC",
-      "position": "Software Developer",
-      "url": "https://companyabc.com",
-      "startDate": "2022-01-01",
-      "endDate": "2023-01-01",
-      "summary": "Developed backend APIs using Django and Django REST Framework",
-      "highlights": ["Developed web applications using Django and React"]
     }
   ],
   "volunteer": [
